@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// https://www.geeksforgeeks.org/problems/reverse-a-string/1
+
 /*
 int method1 () {
 	string s, str2;
